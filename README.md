@@ -1,8 +1,13 @@
-## Welcome to GitHub Pages
+# Noah Cisneros
+## Contact me at:
+### sko_buffs@noahcisneros.me
 
-You can use the [editor on GitHub](https://github.com/noci1738/noci1738.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## About Me
+
+- Member of the Miramontes Arts and Sciences Program (MASP).
+- Student Assistant at the Biofrontiers Institute at the Univeristy of Colorado at Boulder.
+
 
 ### Markdown
 

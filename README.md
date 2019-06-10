@@ -36,7 +36,9 @@
 
 ## Activities
 
-- Member of the Miramontes Arts and Sciences Program (MASP).
+* Member of the Miramontes Arts and Sciences Program (MASP).
+* President of the Denver Nuggets Appreciation Club at CU Boulder
+  * August 2017 to Present
 
 ## Coursework
 

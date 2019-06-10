@@ -1,42 +1,49 @@
 # Noah Cisneros
 ## Contact me at:
-### sko_buffs@noahcisneros.me
+### noah@noahcisneros.me
+### 303-906-6899
 
 
-## About Me
+## Education
+
+- University of Colorado Boulder
+-- B.A. in Computer Science, Expected May 2020
+
+
+## Skills
+
+- C/C++
+- Python
+- CSS
+- MySQL
+- OpenGL
+- PHP
+- Latex
+- Git
+- Data Structures
+- Agile
+- Scrum
+- Waterfall
+
+## Experience
+
+- Student Assistant for the BioFrontiers Institute at the University of Colorado at Boulder.
+-- April 2018 - Present
+-- Assisted with management of building AV systems and helpdesk support.
+-- Worked on small internal projects for administrational use and invoicing.
+-- Communicated with building residents through email, telephone, and face to face to help with assorted support needs.
+
+
+## Activities
 
 - Member of the Miramontes Arts and Sciences Program (MASP).
-- Student Assistant at the Biofrontiers Institute at the Univeristy of Colorado at Boulder.
 
+## Coursework
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/noci1738/noci1738.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- Data Structures
+- Computer Systems
+- Discrete Structures
+- Software Development
+- Algorithms
+- Numerical Computation
+- Linear Algebra with CS Applications

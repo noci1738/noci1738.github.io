@@ -6,8 +6,8 @@
 
 ## Education
 
-- University of Colorado Boulder
--- B.A. in Computer Science, Expected May 2020
+* University of Colorado Boulder
+  * B.A. in Computer Science, Expected May 2020
 
 
 ## Skills

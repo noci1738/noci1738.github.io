@@ -27,11 +27,11 @@
 
 ## Experience
 
-- Student Assistant for the BioFrontiers Institute at the University of Colorado at Boulder.
--- April 2018 - Present
--- Assisted with management of building AV systems and helpdesk support.
--- Worked on small internal projects for administrational use and invoicing.
--- Communicated with building residents through email, telephone, and face to face to help with assorted support needs.
+* Student Assistant for the BioFrontiers Institute at the University of Colorado at Boulder.
+  * April 2018 - Present
+  * Assisted with management of building AV systems and helpdesk support.
+  * Worked on small internal projects for administrational use and invoicing.
+  * Communicated with building residents through email, telephone, and face to face to help with assorted support needs.
 
 
 ## Activities

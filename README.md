@@ -4,9 +4,9 @@
 * noah@noahcisneros.me
 * 303-906-6899
 
-[LinkedIn] (https://www.linkedin.com/in/noah-c-2259a6115/)
+[LinkedIn](https://www.linkedin.com/in/noah-c-2259a6115/)
 
-## My Resume Can Be Found [Here] (https://github.com/noci1738/noci1738.github.io/blob/master/Noah_Cisneros_Resume.pdf)
+## My Resume Can Be Found [Here](https://github.com/noci1738/noci1738.github.io/blob/master/Noah_Cisneros_Resume.pdf)
 
 ## Education
 

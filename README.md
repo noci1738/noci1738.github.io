@@ -1,8 +1,11 @@
 # Noah Cisneros
-## Contact me at:
-### noah@noahcisneros.me
-### 303-906-6899
 
+## How To Contact me:
+* noah@noahcisneros.me
+* 303-906-6899
+* [LinkedIn] (https://www.linkedin.com/in/noah-c-2259a6115/)
+
+## My Resume Can Be Found [Here] (https://github.com/noci1738/noci1738.github.io/blob/master/Noah_Cisneros_Resume.pdf)
 
 ## Education
 
@@ -24,21 +27,6 @@
 - Agile
 - Scrum
 - Waterfall
-
-## Experience
-
-* Student Assistant for the BioFrontiers Institute at the University of Colorado at Boulder.
-  * April 2018 - Present
-  * Assisted with management of building AV systems and helpdesk support.
-  * Worked on small internal projects for administrational use and invoicing.
-  * Communicated with building residents through email, telephone, and face to face to help with assorted support needs.
-
-
-## Activities
-
-* Member of the Miramontes Arts and Sciences Program (MASP).
-* President of the Denver Nuggets Appreciation Club at CU Boulder
-  * August 2017 to Present
 
 ## Coursework
 
